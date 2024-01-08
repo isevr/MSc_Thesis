@@ -1,0 +1,71 @@
+utterance,sentiment,emotion,check,By,prepro
+"01. ""Feeling down today, everything seems a bit grey.""",negative,Sadness,TRUE,A, feeling down today everything seems a bit grey
+"02. ""Just can't shake off this feeling of heaviness.""",negative,Sadness,TRUE,A, just cant shake off this feeling of heaviness
+"03. ""It's like a weight in my chest that won't go away.""",negative,Sadness,TRUE,A, its like a weight in my chest that wont go away
+"04. ""Trying to find some light in this darkness, but it's tough.""",negative,Sadness,TRUE,A, trying to find some light in this darkness but its tough
+"05. ""Feeling a bit lost and not sure how to lift my spirits.""",negative,Sadness,TRUE,I, feeling a bit lost and not sure how to lift my spirits
+"06. ""Sometimes, it's hard to put on a smile when inside it hurts.""",negative,Sadness,TRUE,I, sometimes its hard to put on a smile when inside it hurts
+"07. ""The tears won't stop flowing, and it's hard to explain.""",negative,Sadness,TRUE,I, the tears wont stop flowing and its hard to explain
+"08. ""Heart feels heavy, and it's tough to find motivation.""",negative,Sadness,TRUE,E, heart feels heavy and its tough to find motivation
+"09. ""Wish I could rewind and change things, but reality stings.""",negative,Sadness,TRUE,E, wish i could rewind and change things but reality stings
+"10. ""Trying to stay strong, but today, it's just not happening.""",negative,Sadness,TRUE,E, trying to stay strong but today its just not happening
+"01. ""Can't believe this actually happened! Wow!""",positive,Surprise,TRUE,A, cant believe this actually happened wow
+"02. ""Wait, what? I'm completely taken aback by this news!""",positive,Surprise,TRUE,A, wait what im completely taken aback by this news
+"03. ""Just got the most unexpected message! Mind blown.""",positive,Surprise,TRUE,A, just got the most unexpected message mind blown
+"04. ""Surprised beyond words right now, didn't see that coming!""",positive,Surprise,TRUE,A, surprised beyond words right now didnt see that coming
+"05. ""This is one shocker of a moment, speechless!""",positive,Surprise,TRUE,I, this is one shocker of a moment speechless
+"06. ""Incredible surprise, didn't anticipate this at all.""",positive,Surprise,TRUE,I, incredible surprise didnt anticipate this at all
+"07. ""Wow, that's a curveball I never saw coming!""",positive,Surprise,TRUE,I, wow thats a curveball i never saw coming
+"08. ""Surprise of the day - this news has me wide-eyed!""",positive,Surprise,TRUE,E, surprise of the day  this news has me wideeyed
+"09. ""Totally caught off guard, but in a good way!""",positive,Surprise,TRUE,E, totally caught off guard but in a good way
+"10. ""Unexpected turn of events, but I'm pleasantly surprised!""",positive,Surprise,TRUE,E, unexpected turn of events but im pleasantly surprised
+"01. ""Just a regular day, nothing too exciting happening.""",neutral,Neutral,TRUE,A, just a regular day nothing too exciting happening
+"02. ""Things are pretty chill, nothing extraordinary.""",neutral,Neutral,TRUE,A, things are pretty chill nothing extraordinary
+"03. ""Just going through the motions, nothing too special.""",neutral,Neutral,TRUE,A, just going through the motions nothing too special
+"04. ""Neutral vibes today, not much to report.""",neutral,Neutral,TRUE,A, neutral vibes today not much to report
+"05. ""Everything's average, no highs or lows.""",neutral,Neutral,TRUE,I, everythings average no highs or lows
+"06. ""Feeling pretty balanced, no strong emotions either way.""",neutral,Neutral,TRUE,I, feeling pretty balanced no strong emotions either way
+"07. ""Nothing particularly remarkable happening today.""",neutral,Neutral,TRUE,I, nothing particularly remarkable happening today
+"08. ""Just an ordinary day, nothing to write home about.""",neutral,Neutral,TRUE,E, just an ordinary day nothing to write home about
+"09. ""Everything's steady, no big changes on the horizon.""",neutral,Neutral,TRUE,E, everythings steady no big changes on the horizon
+"10. ""Neutral state of mind, coasting through the day.""",neutral,Neutral,TRUE,E, neutral state of mind coasting through the day
+"01. ""So happy, I can't stop smiling! Life's good!""",positive,Joy,TRUE,A, so happy i cant stop smiling lifes good
+"02. ""Feeling ecstatic today, everything's going right!""",positive,Joy,TRUE,A, feeling ecstatic today everythings going right
+"03. ""Pure joy running through me, can't contain it!""",positive,Joy,TRUE,A, pure joy running through me cant contain it
+"04. ""Happiness overload, the world feels wonderful!""",positive,Joy,TRUE,A, happiness overload the world feels wonderful
+"05. ""Absolutely thrilled about the news I just got!""",positive,Joy,TRUE,I, absolutely thrilled about the news i just got
+"06. ""Bubbling with joy, it's contagious!""",positive,Joy,TRUE,I, bubbling with joy its contagious
+"07. ""Today's filled with sunshine and happiness!""",positive,Joy,TRUE,I, todays filled with sunshine and happiness
+"08. ""Grinning from ear to ear, joyous beyond words!""",positive,Joy,TRUE,E, grinning from ear to ear joyous beyond words
+"09. ""Overflowing with happiness, life's treating me well!""",positive,Joy,TRUE,E, overflowing with happiness lifes treating me well
+"10. ""Incredibly happy, dancing through the day!""",positive,Joy,TRUE,E, incredibly happy dancing through the day
+"01. ""Fuming right now, can't believe this happened!""",negative,Anger,TRUE,A, fuming right now cant believe this happened
+"02. ""So frustrated, I could scream!""",negative,Anger,TRUE,A, so frustrated i could scream
+"03. ""Angry beyond words, need to cool down.""",negative,Anger,TRUE,A, angry beyond words need to cool down
+"04. ""Feeling rage building up, trying to keep calm.""",negative,Anger,TRUE,A, feeling rage building up trying to keep calm
+"05. ""Seething with anger, trying to breathe through it.""",negative,Anger,TRUE,I, seething with anger trying to breathe through it
+"06. ""Just want to punch something, so infuriated!""",negative,Anger,TRUE,I, just want to punch something so infuriated
+"07. ""This situation has me boiling with anger.""",negative,Anger,TRUE,I, this situation has me boiling with anger
+"08. ""Can't shake off this intense anger, need an outlet.""",negative,Anger,TRUE,E, cant shake off this intense anger need an outlet
+"09. ""Anger levels at max, need some space to calm down.""",negative,Anger,TRUE,E, anger levels at max need some space to calm down
+"10. ""Feeling really heated, trying hard to keep it together.""",negative,Anger,TRUE,E, feeling really heated trying hard to keep it together
+"01. ""Absolutely repulsed by what I just saw, gross!""",negative,Disgust,TRUE,M, absolutely repulsed by what i just saw gross
+"02. ""Feeling sick to my stomach, that was disgusting.""",negative,Disgust,TRUE,M, feeling sick to my stomach that was disgusting
+"03. ""Yuck! Can't get over how gross that was.""",negative,Disgust,TRUE,M, yuck cant get over how gross that was
+"04. ""Disgusted beyond words, need to shake it off.""",negative,Disgust,TRUE,M, disgusted beyond words need to shake it off
+"05. ""Just witnessed something utterly revolting, ugh!""",negative,Disgust,TRUE,M, just witnessed something utterly revolting ugh
+"06. ""Feeling repelled by what I encountered, not cool!""",negative,Disgust,TRUE,M, feeling repelled by what i encountered not cool
+"07. ""Grossed out to the max, need to erase that image.""",negative,Disgust,TRUE,M, grossed out to the max need to erase that image
+"08. ""That was truly disgusting, can't get it out of my head.""",negative,Disgust,TRUE,E, that was truly disgusting cant get it out of my head
+"09. ""Feeling queasy after seeing something really gross.""",negative,Disgust,TRUE,E, feeling queasy after seeing something really gross
+"10. ""So grossed out right now, wish I hadn't seen that!""",negative,Disgust,TRUE,E, so grossed out right now wish i hadnt seen that
+"01. ""Feeling really scared, something doesn't feel right.""",negative,Fear,TRUE,M, feeling really scared something doesnt feel right
+"02. ""Heart's racing, can't shake off this sense of dread.""",negative,Fear,TRUE,M, hearts racing cant shake off this sense of dread
+"03. ""Scared out of my wits, need some reassurance.""",negative,Fear,TRUE,M, scared out of my wits need some reassurance
+"04. ""Something's giving me the chills, feeling really uneasy.""",negative,Fear,TRUE,M, somethings giving me the chills feeling really uneasy
+"05. ""Anxiety levels off the charts, can't calm down.""",negative,Fear,TRUE,M, anxiety levels off the charts cant calm down
+"06. ""Terrified about what might happen, need to stay strong.""",negative,Fear,TRUE,M, terrified about what might happen need to stay strong
+"07. ""Fearing the worst, trying to keep a brave face.""",negative,Fear,TRUE,M, fearing the worst trying to keep a brave face
+"08. ""Feeling a knot in my stomach, scared to move forward.""",negative,Fear,TRUE,E, feeling a knot in my stomach scared to move forward
+"09. ""That was really frightening, still shaking.""",negative,Fear,TRUE,E, that was really frightening still shaking
+"10. ""Feeling the fear creep in, trying to breathe through it.""",negative,Fear,TRUE,E, feeling the fear creep in trying to breathe through it
